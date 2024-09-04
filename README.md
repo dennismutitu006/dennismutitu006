@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dennis Mutitu!
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a background in **Human Resources management**. My journey in tech began with my **undergad degree at Maseno University**, where I discovered the power of combining my HR expertise with cutting-edge technology.I later advanced my skills through ALX's softwarengineering program.  I am driven by a desire to build solutions that bridge the gap between people and technology.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a background in **Human Resources management**. My journey in tech began with my **undergad degree at Maseno University**, where I discovered the power of combining my HR expertise with cutting-edge technology.I later advanced my skills through ALX's software engineering program.  I am driven by a desire to build solutions that bridge the gap between people and technology.
 
 ---
 
