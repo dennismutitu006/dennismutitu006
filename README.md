@@ -57,9 +57,9 @@ I am inspired by the intersection of technology and human interaction. My goal i
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dennis-mutitu)
-- **GitHub:** [Your GitHub Profile](https://github.com/dennismutitu006)
-- **Portfolio:** [Your Portfolio Website](https://wachiradennis.my.canva.site/minimal-and-clean-creative-portfolio-presentation)
+- **LinkedIn:** (https://www.linkedin.com/in/dennis-mutitu)
+- **GitHub:** (https://github.com/dennismutitu006)
+- **Portfolio:** (https://wachiradennis.my.canva.site/minimal-and-clean-creative-portfolio-presentation)
 
 Feel free to reach out if you want to collaborate on exciting projects or just have a chat about tech and HR!
 
