@@ -45,7 +45,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a back
 - **Role:** Project Manager
 - **Description:** A task management application built with Flask and JavaScript. I led the project, coordinating tasks, managing timelines, and ensuring that all team members were aligned with the project goals.
 
-*Include other projects here, if any.*
 
 ---
 
